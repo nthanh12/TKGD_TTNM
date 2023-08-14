@@ -1,0 +1,38 @@
+Chương 1: Tổng quan về thiết kế giao diện và tương tác người máy
+Chương 2: Giới thiệu về UI/UX
+Chương 3: Mockup và Wireframe
+Chương 4: Quy trình thiết kế giao diện người dùng
+Chương 5: Các mô hình HCI
+Chương 6: Thiết kế giao diện web
+Chương 7: Thiết kế giao diện di động (Mobile)
+Chương 8: Đánh giá giao diện với phân tích Heuristic
+Chương 9: Các tiêu chuẩn ISO về giao diện người sử dụng
+------------------
+1.1, Khái niệm chung
+1.1.1, Tương tác người máy
+- Là tập quá trình đối thoại với các hành động qua đó con người sử dụng và tương tác với máy tính
+- Là một lĩnh vực liên quan đến thiết kế đánh giá và cài đặt hệ thống tương tác cho con người sử dụng và nghiên cứu các hiện tượng chính xảy ra bên đó
+
+1.1.2, Mục đích nghiên cứu
+	Phát triển hay cải thiện tính an toàn tính tiện dụng, tính hiệu quả của hệ thống, tạo ra hệ thống dùng được và an toàn
+	
+1.1.3, Vị trí, vai trò của HCI
+=> Tạo ra các hệ thống cung cấp ccas chức năng an toàn và tiện dụng
+
+1.2, Tính khả dụng
+1.2.1, Định nghĩa
+	- Tính khả dụng (Usability) là thuộc tính chất lượng (quality attribute) đánh giá mức độ dễ sử dụng của giao diện người dùng (how easy user interface). Từ "tính khả dụng" cũng liên quan đến phương thức nâng cao tính dễ dùng trong suốt quá trình xử lý thiết kế
+	- Usability thể hiện mức độ của một sản phẩm có thể đáp ứng cho người dùng khi họ thực hiện chính xác (effectiveness), hiệu quả (efficiency) các mục tiêu đã đề ra, kèm theo sự hài lòng (satisfaction) trong bối cảnh sử dụng cụ thể
+1.2.2, Các yếu tố quan trọng của tính khả dụng
+	
+	- Tính chính xác (Effectiveness)
+	+ Giúp người dùng thực hiện chuẩn xác (accuracy) các tác vụ, bằng cách giảm thiểu tối đa các sai sót không cần thiết.
+	+ Ví dụ: Khi điền thông tin thẻ thanh toán, chỉ nên cho người dùng nhập "chữ số"
+	
+	- Tính hiệu quả (Efficiency)
+	+ Tính hiệu quả là khả năng giúp người dùng thực hiện nhanh chóng các tác vụ. trong hầu hết trường hợp UX Designer sẽ cố gắng giúp người dùng giảm xuống tối thiểu các thao tác (click, chạm, lướt ngang,..) để hoàn thành tác vụ mong muốn
+	+ Ví dụ: Ctrl + S, Tab,..
+	
+	- Tính tương tác
+	- Tính chấp nhận lỗi
+	- Tính dễ học
